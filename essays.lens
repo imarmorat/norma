@@ -11,6 +11,9 @@
             <h2> 
               {{ essay.title }} 
             </h2>
+            <h3> 
+              {{ essay.excerpt }} 
+            </h3>
             </koken:link>
           </article>
       </koken:loop>
